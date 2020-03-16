@@ -1,5 +1,0 @@
-owner: mitoconcrete
-repo: update_test
-provider: github
-token: ba905f1b354c4e3bb63b36b34811be41870f816a
-updaterCacheDirName: electron-auto-update-example-updater
